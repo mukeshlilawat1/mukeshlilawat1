@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshlilawat1&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshlilawat1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshlilawat1" alt="mukeshlilawat1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/coder_lilawat" target="blank"><img src="https://img.shields.io/twitter/follow/coder_lilawat?logo=twitter&style=for-the-badge" alt="coder_lilawat" /></a> </p>
 
 - 🌱 I’m currently learning **Core java**
