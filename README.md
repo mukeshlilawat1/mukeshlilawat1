@@ -9,6 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/coder_lilawat" target="blank"><img src="https://img.shields.io/twitter/follow/coder_lilawat?logo=twitter&style=for-the-badge" alt="coder_lilawat" /></a> </p>
 
+- 🌱 I’m currently learning **Core java**
+
+- 📫 How to reach me **Mukeshkumarlilawat1@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coder_lilawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_lilawat" height="30" width="40" /></a>
